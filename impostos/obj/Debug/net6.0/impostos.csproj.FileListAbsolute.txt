@@ -1,0 +1,15 @@
+C:\Users\luayn\source\repos\impostos\impostos\bin\Debug\net6.0\impostos.exe
+C:\Users\luayn\source\repos\impostos\impostos\bin\Debug\net6.0\impostos.deps.json
+C:\Users\luayn\source\repos\impostos\impostos\bin\Debug\net6.0\impostos.runtimeconfig.json
+C:\Users\luayn\source\repos\impostos\impostos\bin\Debug\net6.0\impostos.dll
+C:\Users\luayn\source\repos\impostos\impostos\bin\Debug\net6.0\impostos.pdb
+C:\Users\luayn\source\repos\impostos\impostos\obj\Debug\net6.0\impostos.csproj.AssemblyReference.cache
+C:\Users\luayn\source\repos\impostos\impostos\obj\Debug\net6.0\impostos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luayn\source\repos\impostos\impostos\obj\Debug\net6.0\impostos.AssemblyInfoInputs.cache
+C:\Users\luayn\source\repos\impostos\impostos\obj\Debug\net6.0\impostos.AssemblyInfo.cs
+C:\Users\luayn\source\repos\impostos\impostos\obj\Debug\net6.0\impostos.csproj.CoreCompileInputs.cache
+C:\Users\luayn\source\repos\impostos\impostos\obj\Debug\net6.0\impostos.dll
+C:\Users\luayn\source\repos\impostos\impostos\obj\Debug\net6.0\refint\impostos.dll
+C:\Users\luayn\source\repos\impostos\impostos\obj\Debug\net6.0\impostos.pdb
+C:\Users\luayn\source\repos\impostos\impostos\obj\Debug\net6.0\impostos.genruntimeconfig.cache
+C:\Users\luayn\source\repos\impostos\impostos\obj\Debug\net6.0\ref\impostos.dll
